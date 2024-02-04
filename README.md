@@ -1,4 +1,4 @@
-![MasterHead](https://ewzduhvhjkj.exactdn.com/wp-content/uploads/2022/08/05144744/What-Does-Embedded-Software-Product-Engineering-Mean-and-Why-Is-It-Important-Banner-1-1.png?strip=all&lossy=1&ssl=1)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*RhbeOWkUXeEYwpCIGPm_DA.jpeg)
 <h1 align="center">Hi 👋, I'm Obi!</h1>
 <h3 align="center">A Software Engineer based in Houston,TX</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/D-xKkvBWCYUAAAAd/scaler-create-impact.gif"/>
